@@ -1,16 +1,21 @@
-## Hi there 👋
+Hello there! I'm Fallenmoon8080!
+I'm interesting in developing in languages such as C, C++, Python, HTML, CSS, and more!
 
-<!--
-**Fallenmoon8080/Fallenmoon8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are the languages that I am (mostly) familiar with:
+- C
+- Python
+- HTML
+- Shell
+- Batch scripting if you call it a language ¯\\_(ツ)_/¯
 
-Here are some ideas to get you started:
+Here are the languages that I am interested in learning:
+- Java
+- C++
+- C#
+- CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Free and open source software developer. All source code should [be free.](https://www.gnu.org/philosophy/shouldbefree.en.html)
+If you need help, feel free to contact me via my discord, which you'll find right below!
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1023959858602573966?idleMessage=Maxxin'%20and%20relaxin')](https://discord.com/users/1023959858602573966)
